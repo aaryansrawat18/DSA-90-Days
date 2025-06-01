@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -26,8 +27,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0237-delete-node-in-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
