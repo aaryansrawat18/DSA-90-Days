@@ -1,23 +1,20 @@
 class Solution {
     public double myPow(double a, int b) {
-        long exp = b; // Use long to avoid overflow when b = Integer.MIN_VALUE
+        long exp = b; // convert int to long to avoid overflow
 
         if (exp < 0) {
             a = 1 / a;
             exp = -exp;
         }
 
-        return fastPower(a, exp);
-    }
+        if (exp == 0) return 1;
 
-    private double fastPower(double a, long b) {
-        if (b == 0) return 1;
+        double half = myPow(a, (int)(exp / 2)); // recursive call
 
-        double ans = fastPower(a, b / 2);
-
-        if (b % 2 == 0)
-            return ans * ans;
-        else
-            return ans * ans * a;
+        if (exp % 2 == 0) {
+            return half * half;
+        } else {
+            return half * half * a;
+        }
     }
 }
