@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2106-find-greatest-common-divisor-of-array) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
