@@ -1,22 +1,18 @@
 class Solution {
-    public int rev(int n){
-        int r=0;
-        while(n!=0){
-            r=r*10+n%10;
-            n/=10;
-        }
-        return r;
-        }
-    
-    public int countDistinctIntegers(int[] nums) {
-
+    public static int rev(int r){
+    String rev = Integer.toString(r);
+    StringBuilder sb = new StringBuilder(rev);
+    sb.reverse(); // Reverse the string once
+    String str = sb.toString(); // Convert StringBuilder to String
+    int reverse = Integer.valueOf(str); // Convert String to int
+    return reverse;
+}
+    public int countDistinctIntegers(int[] arr) {
         HashSet<Integer> set= new HashSet<>();
-        for (int i=0;i<nums.length;i++){
-            set.add(nums[i]);
-            set.add(rev(nums[i]));
-        }
-
-        return set.size();
-        
+for(int i =0;i<arr.length;i++){
+    set.add(arr[i]);
+    set.add(rev(arr[i]));
+}
+return set.size();
     }
 }
