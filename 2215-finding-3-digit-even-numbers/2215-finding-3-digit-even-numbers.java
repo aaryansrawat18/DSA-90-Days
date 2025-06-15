@@ -1,37 +1,32 @@
-
-
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-        Set<Integer> resultSet = new HashSet<>();
-        boolean[] used = new boolean[digits.length];
-        generate3DigitNumbers(digits, used, 0, 0, resultSet);
+        Set<Integer> result = new TreeSet<>();
+
+        int n = digits.length;
+        for (int i = 0; i < n; i++) {
+            if (digits[i] == 0) continue; // Hundreds place cannot be 0
+
+            for (int j = 0; j < n; j++) {
+                if (j == i) continue;
+
+                for (int k = 0; k < n; k++) {
+                    if (k == i || k == j) continue;
+
+                    int num = digits[i] * 100 + digits[j] * 10 + digits[k];
+                    if (num % 2 == 0) {
+                        result.add(num);
+                    }
+                }
+            }
+        }
 
         // Convert set to array
-        int[] result = new int[resultSet.size()];
-        int i = 0;
-        for (int num : resultSet) {
-            result[i++] = num;
+        int[] ans = new int[result.size()];
+        int idx = 0;
+        for (int val : result) {
+            ans[idx++] = val;
         }
 
-        Arrays.sort(result); // Optional: return sorted output
-        return result;
-    }
-
-    // Recursive method to form 3-digit numbers and check evenness
-    private void generate3DigitNumbers(int[] digits, boolean[] used, int number, int depth, Set<Integer> result) {
-        if (depth == 3) {
-            if (number % 2 == 0 && number >= 100) {  // Must be 3-digit & even
-                result.add(number);
-            }
-            return;
-        }
-
-        for (int i = 0; i < digits.length; i++) {
-            if (!used[i]) {
-                used[i] = true;
-                generate3DigitNumbers(digits, used, number * 10 + digits[i], depth + 1, result);
-                used[i] = false;
-            }
-        }
+        return ans;
     }
 }
