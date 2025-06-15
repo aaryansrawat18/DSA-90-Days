@@ -1,43 +1,37 @@
+
+
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-        int[] ans;
-        int n = digits.length;
-        int[] freq = new int[10];
-        for (int i : digits) freq[i]++;
+        Set<Integer> resultSet = new HashSet<>();
+        boolean[] used = new boolean[digits.length];
+        generate3DigitNumbers(digits, used, 0, 0, resultSet);
 
-        int[] last = new int[10];
-        int[] middle = new int[10];
-        int[] first = new int[10];
-        int[] res = new int[900];
-        int n1 = 0, n2 = 0, n3 = 0, size = 0;
-
-        for (int i = 0; i < 10; i++) {
-            if (freq[i] == 0) continue;
-            if (i % 2 == 0) last[n3++] = i;
-            if (i > 0) first[n1++] = i;
-            middle[n2++] = i;
+        // Convert set to array
+        int[] result = new int[resultSet.size()];
+        int i = 0;
+        for (int num : resultSet) {
+            result[i++] = num;
         }
 
-        for (int i = 0; i < n1; i++) {
-            for (int j = 0; j < n2; j++) {
-                for (int k = 0; k < n3; k++) {
-                    int a = first[i], b = middle[j], c = last[k];
-                    int x = a * 100 + b * 10 + c;
-                    if (a != b && b != c && a != c) {
-                        res[size++] = x;
-                    } else if ((a == b && b != c) || (a == c && a != b)) {
-                        if (freq[a] > 1) res[size++] = x;
-                    } else if (b == c && a != b) {
-                        if (freq[b] > 1) res[size++] = x;
-                    } else if (freq[a] > 2) {
-                        res[size++] = x;
-                    }
-                }
+        Arrays.sort(result); // Optional: return sorted output
+        return result;
+    }
+
+    // Recursive method to form 3-digit numbers and check evenness
+    private void generate3DigitNumbers(int[] digits, boolean[] used, int number, int depth, Set<Integer> result) {
+        if (depth == 3) {
+            if (number % 2 == 0 && number >= 100) {  // Must be 3-digit & even
+                result.add(number);
+            }
+            return;
+        }
+
+        for (int i = 0; i < digits.length; i++) {
+            if (!used[i]) {
+                used[i] = true;
+                generate3DigitNumbers(digits, used, number * 10 + digits[i], depth + 1, result);
+                used[i] = false;
             }
         }
-
-        ans = new int[size];
-        for (int i = 0; i < size; i++) ans[i] = res[i];
-        return ans;
     }
 }
