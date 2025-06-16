@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1319-unique-number-of-occurrences) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2215-finding-3-digit-even-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
