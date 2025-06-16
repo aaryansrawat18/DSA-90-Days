@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0078-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1319-unique-number-of-occurrences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2232-adding-spaces-to-a-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1319-unique-number-of-occurrences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Number Theory
