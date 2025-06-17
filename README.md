@@ -144,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
