@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0119-pascals-triangle-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
