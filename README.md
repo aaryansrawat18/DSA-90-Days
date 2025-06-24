@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0626-exchange-seats) |
+| [1480-movie-rating](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1480-movie-rating) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
