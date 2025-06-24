@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3227-find-missing-and-repeated-values) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
 |  |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
