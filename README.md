@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 | [1319-unique-number-of-occurrences](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1319-unique-number-of-occurrences) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0148-sort-list) |
+| [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [2232-adding-spaces-to-a-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2232-adding-spaces-to-a-string) |
 ## Backtracking
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2215-finding-3-digit-even-numbers) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 ## Database
 |  |
 | ------- |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
@@ -204,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2324-find-triangular-sum-of-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
