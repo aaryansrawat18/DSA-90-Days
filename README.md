@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1319-unique-number-of-occurrences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
