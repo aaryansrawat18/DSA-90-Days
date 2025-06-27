@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1319-unique-number-of-occurrences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2215-finding-3-digit-even-numbers) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
@@ -188,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
