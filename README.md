@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
@@ -227,5 +228,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1603-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
