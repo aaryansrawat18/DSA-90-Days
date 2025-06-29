@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1603-running-sum-of-1d-array) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Design
 |  |
 | ------- |
