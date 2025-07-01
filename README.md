@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1127-last-stone-weight) |
+| [1206-corporate-flight-bookings](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1206-corporate-flight-bookings) |
 | [1319-unique-number-of-occurrences](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0724-find-pivot-index) |
+| [1206-corporate-flight-bookings](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1206-corporate-flight-bookings) |
 | [1603-running-sum-of-1d-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1603-running-sum-of-1d-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
