@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0185-department-top-three-salaries) |
 | [0626-exchange-seats](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0626-exchange-seats) |
 | [1452-restaurant-growth](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1480-movie-rating) |
