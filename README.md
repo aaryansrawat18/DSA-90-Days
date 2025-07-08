@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0303-range-sum-query-immutable) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0136-single-number) |
 ## Counting
 |  |
 | ------- |
