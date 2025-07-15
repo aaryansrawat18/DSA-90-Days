@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
