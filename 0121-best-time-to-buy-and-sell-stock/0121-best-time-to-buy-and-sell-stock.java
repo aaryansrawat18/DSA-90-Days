@@ -1,12 +1,14 @@
 class Solution {
     public int maxProfit(int[] arr) {
-        int maxp=0;
-        int minsofar=arr[0];
-        for(int i=0;i<arr.length;i++){
-            minsofar= Math.min(minsofar,arr[i]);
-            int profit= arr[i]-minsofar;
-            maxp=Math.max(maxp,profit);
+        int minPrice = Integer.MAX_VALUE;
+        int maxProfit = 0;
+
+        for (int i = 0; i < arr.length; i++) {
+            minPrice = Math.min(minPrice, arr[i]); // track minimum price
+            int profit = arr[i] - minPrice;        // current profit
+            maxProfit = Math.max(maxProfit, profit); // update maxProfit
         }
-        return maxp;
+
+        return maxProfit;
     }
 }
