@@ -1,16 +1,22 @@
-class Solution {
-    public void swap(int[] arr, int i, int j){
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-    }
+import java.util.*;
 
-    public void moveZeroes(int[] nums) {
-        int i = 0;
-        for (int j = 0; j < nums.length; j++) {
-            if (nums[j] != 0) {
-                swap(nums, i, j);
-                i++;
+class Solution {
+    public void moveZeroes(int[] arr) {
+        List<Integer> list = new ArrayList<>();
+
+        // Step 1: Store non-zero elements in list
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] != 0) {
+                list.add(arr[i]);
+            }
+        }
+
+        // Step 2: Copy elements back to array
+        for (int i = 0; i < arr.length; i++) {
+            if (i < list.size()) {
+                arr[i] = list.get(i); // copy non-zero
+            } else {
+                arr[i] = 0; // fill remaining with zero
             }
         }
     }
