@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Counting
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Database
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Prefix Sum
 |  |
 | ------- |
