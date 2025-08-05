@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3790-fruits-into-baskets-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -279,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2469-longest-subsequence-with-limited-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
