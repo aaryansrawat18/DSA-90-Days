@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0560-subarray-sum-equals-k) |
+| [0900-reordered-power-of-2](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0900-reordered-power-of-2) |
 | [1319-unique-number-of-occurrences](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1319-unique-number-of-occurrences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2215-finding-3-digit-even-numbers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
+| [0900-reordered-power-of-2](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0900-reordered-power-of-2) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
+| [0900-reordered-power-of-2](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2215-finding-3-digit-even-numbers) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sliding Window
 |  |
