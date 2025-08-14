@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
 | [2232-adding-spaces-to-a-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2232-adding-spaces-to-a-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
