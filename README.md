@@ -194,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0144-binary-tree-preorder-traversal) |
 ## Enumeration
 |  |
 | ------- |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3790-fruits-into-baskets-ii) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
