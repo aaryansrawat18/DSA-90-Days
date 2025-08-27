@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0226-invert-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0226-invert-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2384-root-equals-sum-of-children) |
 ## Enumeration
 |  |
 | ------- |
