@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0118-pascals-triangle) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0231-power-of-two) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0048-rotate-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
