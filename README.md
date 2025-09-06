@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0119-pascals-triangle-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
