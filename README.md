@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0119-pascals-triangle-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0560-subarray-sum-equals-k) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
