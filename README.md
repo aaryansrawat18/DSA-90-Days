@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0217-contains-duplicate) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
