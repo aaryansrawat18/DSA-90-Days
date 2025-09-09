@@ -1,7 +1,11 @@
 class Solution {
     public int findMin(int[] nums) {
-        int n= Arrays.stream(nums).min().getAsInt();
-        return n;
+        int n= nums.length;
+        for(int i=0;i<n-1;i++){
+            if(nums[i]>nums[i+1]){ return nums[i+1];}
+
+        }
+        return nums[0];
         
     }
 }
