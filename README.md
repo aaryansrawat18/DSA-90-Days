@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0027-remove-element) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0027-remove-element) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0011-container-with-most-water) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Segment Tree
 |  |
