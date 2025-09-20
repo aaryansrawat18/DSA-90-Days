@@ -1,27 +1,17 @@
-public class Solution {
+class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        // Step 1: Count frequency using simple if-else
-        Map<Integer, Integer> freqMap = new HashMap<>();
-        for (int num : nums) {
-            if (freqMap.containsKey(num)) {
-                freqMap.put(num, freqMap.get(num) + 1);
-            } else {
-                freqMap.put(num, 1);
-            }
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for(int num : nums){
+            map.put(num,map.getOrDefault(num,0)+1);
         }
+       Integer[] arr= map.keySet().toArray(new Integer[0]);
+         Arrays.sort(arr, (a, b) -> map.get(b) - map.get(a));
 
-        // Step 2: Convert map to list of entries
-        List<Map.Entry<Integer, Integer>> entryList = new ArrayList<>(freqMap.entrySet());
-
-        // Step 3: Sort list in descending order of frequency
-        entryList.sort((a, b) -> b.getValue() - a.getValue());
-
-        // Step 4: Prepare result array
+        // Step 4: Pick top k elements
         int[] result = new int[k];
         for (int i = 0; i < k; i++) {
-            result[i] = entryList.get(i).getKey();
+            result[i] = arr[i];
         }
-
-        return result;
+         return result;
     }
 }
