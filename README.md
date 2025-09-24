@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0560-subarray-sum-equals-k) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [2232-adding-spaces-to-a-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2232-adding-spaces-to-a-string) |
 ## Backtracking
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Counting
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
