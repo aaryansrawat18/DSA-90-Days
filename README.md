@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0283-move-zeroes) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0242-valid-anagram) |
 | [2232-adding-spaces-to-a-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2346-largest-3-same-digit-number-in-string) |
