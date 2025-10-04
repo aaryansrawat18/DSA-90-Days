@@ -2,19 +2,21 @@ class Solution {
     
     public boolean isPalindrome(String s) {
         
-           s = s.toLowerCase();
-            s = s.replaceAll("[^a-z0-9]", "");
-            int start = 0;
-        int end = s.length() - 1;
+       StringBuilder sb = new StringBuilder();
 
-        while (start < end) {
-            if (s.charAt(start) != s.charAt(end)) {
-                return false;
+        // 1. Build a cleaned string (lowercase + alphanumeric only)
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            if (Character.isLetterOrDigit(ch)) {
+                sb.append(Character.toLowerCase(ch));
             }
-            start++;
-            end--;
         }
 
-        return true;
+        // 2. Get reversed string
+        String cleaned = sb.toString();
+        String reversed = sb.reverse().toString();
+
+        // 3. Compare cleaned string with reversed string
+        return cleaned.equals(reversed);
     }
 }
