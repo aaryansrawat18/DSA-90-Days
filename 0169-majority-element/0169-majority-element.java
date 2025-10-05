@@ -2,7 +2,8 @@ class Solution {
     public int majorityElement(int[] nums) {
 
      
- HashMap<Integer, Integer> map = new HashMap<>();
+
+         HashMap<Integer, Integer> map = new HashMap<>();
         int n = nums.length;
 
         for (int num : nums) {
@@ -11,7 +12,7 @@ class Solution {
                 return num; // majority found
             }
         }
-        return -1; 
+        return -1;
         
     }
 }
