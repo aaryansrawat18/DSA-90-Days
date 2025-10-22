@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1014-k-closest-points-to-origin) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2215-finding-3-digit-even-numbers) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Database
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0658-find-k-closest-elements) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1603-running-sum-of-1d-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Design
 |  |
 | ------- |
