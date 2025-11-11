@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0185-department-top-three-salaries) |
+| [0584-find-customer-referee](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0585-investments-in-2016) |
 | [0626-exchange-seats](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/0626-exchange-seats) |
 | [1452-restaurant-growth](https://github.com/aaryansrawat18/DSA-90-Days/tree/master/1452-restaurant-growth) |
